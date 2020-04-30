@@ -1,3 +1,6 @@
+/*
+ Author: Thomas Krenn
+*/
 #define STRICT
 #define NOCRYPT
 
